@@ -61,7 +61,7 @@
 
  Hasil program
 
-![asek](IMG8.png)
+![asek](GAMBAR/IMG8.png)
 
 > [!INFO]-
 > Gambar dibawah ini adalah hasil jika mengklik link tersebut
