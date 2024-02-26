@@ -61,26 +61,26 @@
 
  Hasil program
 
-![asek](GAMBAR/IMG8.png)
+![asek](GAMBARIMG8.png)
 
 > [!INFO]-
 > Gambar dibawah ini adalah hasil jika mengklik link tersebut
 
-![asek](IMG7.png) 
+![asek](GAMBARIMG7.png) 
 
 # HEADING:
 `<h>` adalah tag yang digunakan untuk menunjukkan sebuah bagian penting pada halaman website dan memiliki enam tingkatan yang berurutan yaitu `<h1>` hingga `<h6>`,dimana semakin tinggi angka pada tag heading maka semakin kecil ukuran heading.
 
 CONTOH PROGRAM:
 
-![GAMBAR](IMG1.png)
+![GAMBAR](GAMBARIMG1.png)
 >[!info]-
 >tag `<br` digunakan sebagai fungsi membuat baris baru
 >
 
 HASIL PROGRAM:
 
-![GAMBAR](IMG4.png)
+![GAMBAR](GAMBARIMG4.png)
 
 >[!note]-
 >seperti yang telah dijelaskan tadi, heading dengan tag `<h1>` adalah heading dengan ukuran paling besar dan heading dengan tag `<h6>` adalah heading dengan ukuran paling kecil,dimana semakin angka pada tag maka akan membuat heading semakin mengecil
@@ -98,11 +98,11 @@ HASIL PROGRAM:
   - `<br>` adalah tag untuk membuat baris baru
   
   CONTOH PROGRAM:
-  ![gambar](IMG6.png)
+  ![gambar](GAMBARIMG6.png)
 
 HASIL PROGRAM:
 
-![gambar](IMG5.png)
+![gambar](GAMBARIMG5.png)
 
 # LINK:
 
@@ -138,7 +138,7 @@ contoh program
 ```
  Hasil Program
 
-![GAMBAR](IMG3.png)
+![GAMBAR](GAMBARIMG3.png)
 2. **Atribut Align**
 	di tag paragraf juga memiliki beberapa atribut yaitu align atribut ini berfungsi sebagai mengatur perataan teks atau paragraf seperti 
 	 align="left" yang dimana  memiliki fungsi untuk megatur teks untuk rata kiri
@@ -163,4 +163,4 @@ contoh program
 </html>
 ```
 HASIL PROGRAM:
-![GAMBAR](IMG(9).png)
+![GAMBAR](IMG(9GAMBAR).png)
